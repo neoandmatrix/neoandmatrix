@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neoandmatrix" alt="neoandmatrix" /></a> </p>
 
-- 🔭 I’m currently working on **Personal projects 😊**
+- 🔭 You can find more about me [here](https://neoandmatrix.me)
 
 - 🌱 I’m currently learning **Advance backed and distributed systems.**
 
